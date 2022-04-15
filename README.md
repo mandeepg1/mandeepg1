@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hello there, I'm Mandeep👋
+***About me***
+- Currently doing my best at the whole coding thing
+---
 
-<!--
-**mandeepg1/mandeepg1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**🏫 Education**</br></br>
+***Univeristy of South Carolina Class of 2024***
+- Major in Computer Science
+- GPA: 3.0
+---
+**🏢 Work Experience**
+- Working on it
+---
 
-Here are some ideas to get you started:
+**📝 Resume**
+- Working on that too
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🖥️ CS Work/Projects**
+- [CSCE 247 - Software Enginering](https://github.com/mandeepg1/design-patterns)
+---
+
+**📲 Contact Me!**
+- Email: mgujral2@gmail.com
+- Phone: (803)-537-6519
