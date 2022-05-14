@@ -5,11 +5,11 @@
 
 **🏫 Education**</br></br>
 ***Univeristy of South Carolina Class of 2024***
-- Major in Computer Science
+- Major in Computer Information Systems
 - GPA: 3.0
 ---
 **🏢 Work Experience**
-- Working on it
+- Working on it (hopefully get a job/internship)
 ---
 
 **📝 Resume**
