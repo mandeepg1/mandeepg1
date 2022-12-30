@@ -17,7 +17,7 @@
 - [CSCE 211 - Digital Logic Design](https://github.com/mandeepg1/dld)
 - [CSCE 240 - Advanced Programming Techniques](https://github.com/mandeepg1/adv-prog-tech)
 - [CSCE 247 - Software Engineering](https://github.com/mandeepg1/design-patterns)
-- [CSCE 416 - Introduction to Computer Networks]()
+- [CSCE 416 - Introduction to Computer Networks](https://github.com/mandeepg1/comp-networks)
 ---
 
 **📲 Contact Me!**
