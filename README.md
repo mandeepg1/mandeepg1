@@ -12,7 +12,7 @@
 ---
 
 **🖥️ CS Work/Projects**
-- [CSCE 145 - Algorithmic Design I]()
+- [CSCE 145 - Algorithmic Design I](https://github.com/mandeepg1/alg-design-I)
 - [CSCE 145 - Algorithmic Design II]()
 - [CSCE 211 - Digital Logic Design]()
 - [CSCE 240 - Advanced Programming Techniques]()
