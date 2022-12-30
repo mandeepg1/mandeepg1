@@ -1,4 +1,5 @@
 ### Hello, I'm Mandeep Gujral!
+---
 
 **🏫 Education**</br></br>
 ***Univeristy of South Carolina Class of 2024***
@@ -22,7 +23,4 @@
 **📲 Contact Me!**
 - Email: mgujral2@gmail.com
 - Phone: (803)-537-6519
-- LinkedIn: <a href="https://www.linkedin.com/in/mandeep-gujral/">
-  <img align="middle" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-</br>
+- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/mandeep-gujral/)
