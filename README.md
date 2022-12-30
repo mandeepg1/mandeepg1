@@ -8,7 +8,7 @@
 ---
 
 **📝 Resume**
-- [My Resume](https://www.canva.com/design/DAFUU6mXoCc/RxF9UElK8FhYSoAMbPMl4g/view?utm_content=DAFUU6mXoCc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+- [My Resume](https://www.canva.com/design/DAFUU6mXoCc/E-q5h9Q_1zU0rnDgXaWOxQ/view?utm_content=DAFUU6mXoCc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 ---
 
 **🖥️ CS Work/Projects**
