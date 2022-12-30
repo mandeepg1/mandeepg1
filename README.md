@@ -1,4 +1,4 @@
-### Hello, I'm Mandeep Gujral!
+### Hello, I'm Mandeep Gujral!👋
 ---
 
 **🏫 Education**</br></br>
