@@ -23,6 +23,6 @@
 - Email: mgujral2@gmail.com
 - Phone: (803)-537-6519
 - LinkedIn: <a href="https://www.linkedin.com/in/mandeep-gujral/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="middle" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 </br>
