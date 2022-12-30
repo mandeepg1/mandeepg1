@@ -14,13 +14,14 @@
 ---
 
 **🖥️ CS Work/Projects**
+- [CSCE 145 - Algorithmic Design I]()
+- [CSCE 145 - Algorithmic Design II]()
+- [CSCE 211 - Digital Logic Design]()
+- [CSCE 240 - Advanced Programming Techniques]()
 - [CSCE 247 - Software Enginering](https://github.com/mandeepg1/design-patterns)
+- [CSCE 416 - Introduction to Computer Networks]()
 ---
 
 **📲 Contact Me!**
 - Email: mgujral2@gmail.com
 - Phone: (803)-537-6519
-
-//**🏢 Work Experience**
-//- 
-//---
