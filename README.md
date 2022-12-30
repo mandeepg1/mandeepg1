@@ -7,7 +7,6 @@ LinkedIn:
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 </br>
----
 
 **🏫 Education**</br></br>
 ***Univeristy of South Carolina Class of 2024***
