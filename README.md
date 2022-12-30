@@ -1,6 +1,7 @@
 ### Hello, I'm Mandeep Gujral👋
-***About me***
-- Working towards my future goals and learning along the way
+<a href="https://www.linkedin.com/in/mandeep-gujral/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 ---
 
 **🏫 Education**</br></br>
