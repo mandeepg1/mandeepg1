@@ -1,6 +1,6 @@
-### Hello there, I'm Mandeep👋
+### Hello, I'm Mandeep Gujral👋
 ***About me***
-- Currently doing my best at the whole coding thing
+- Currently pursuing a degree in Computer Information Systems to further my professional career
 ---
 
 **🏫 Education**</br></br>
@@ -8,12 +8,9 @@
 - Major in Computer Information Systems
 - GPA: 3.0
 ---
-**🏢 Work Experience**
-- Working on it (hopefully get a job/internship)
----
 
 **📝 Resume**
-- Working on that too
+- [My Resume](https://www.canva.com/design/DAFUU6mXoCc/RxF9UElK8FhYSoAMbPMl4g/view?utm_content=DAFUU6mXoCc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 ---
 
 **🖥️ CS Work/Projects**
@@ -23,3 +20,7 @@
 **📲 Contact Me!**
 - Email: mgujral2@gmail.com
 - Phone: (803)-537-6519
+
+//**🏢 Work Experience**
+//- 
+//---
