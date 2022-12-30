@@ -1,6 +1,6 @@
 ### Hello, I'm Mandeep Gujral👋
 ***About me***
-- Currently pursuing a degree in Computer Information Systems to further my professional career
+- Working towards my future goals and learning along the way
 ---
 
 **🏫 Education**</br></br>
