@@ -11,7 +11,7 @@
 - [My Resume](https://www.canva.com/design/DAFUU6mXoCc/E-q5h9Q_1zU0rnDgXaWOxQ/view?utm_content=DAFUU6mXoCc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 ---
 
-**🖥️ CS Work/Projects**
+**🖥️ Projects**
 - [CSCE 145 - Algorithmic Design I](https://github.com/mandeepg1/alg-design-I)
 - [CSCE 145 - Algorithmic Design II](https://github.com/mandeepg1/alg-design-II)
 - [CSCE 211 - Digital Logic Design](https://github.com/mandeepg1/dld)
