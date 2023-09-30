@@ -18,7 +18,7 @@
 - [CSCE 240 - Advanced Programming Techniques](https://github.com/mandeepg1/adv-prog-tech)
 - [CSCE 247 - Software Engineering](https://github.com/mandeepg1/design-patterns)
 - [CSCE 416 - Introduction to Computer Networks](https://github.com/mandeepg1/comp-networks)
-- [CSCE 242 - Client-Side Programming]((https://github.com/mandeepg1/mandeepg1.github.io))
+- [CSCE 242 - Client-Side Programming](https://github.com/mandeepg1/mandeepg1.github.io)
 ---
 
 **📲 Contact Me!**
