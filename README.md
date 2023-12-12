@@ -8,7 +8,7 @@
 ---
 
 **📝 Resume**
-- [My Resume](https://github.com/mandeepg1/mandeepg1/files/13653249/resume.pdf)
+- [My Resume](https://github.com/mandeepg1/mandeepg1/files/13653463/resume.pdf)
 
 
 **🖥️ Projects**
