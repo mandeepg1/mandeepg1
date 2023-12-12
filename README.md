@@ -8,8 +8,8 @@
 ---
 
 **📝 Resume**
-- [My Resume](https://www.canva.com/design/DAFUU6mXoCc/E-q5h9Q_1zU0rnDgXaWOxQ/view?utm_content=DAFUU6mXoCc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
----
+- [My Resume](https://github.com/mandeepg1/mandeepg1/files/13653249/resume.pdf)
+
 
 **🖥️ Projects**
 - [CSCE 145 - Algorithmic Design I](https://github.com/mandeepg1/alg-design-I)
