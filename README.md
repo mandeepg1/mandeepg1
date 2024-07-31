@@ -4,7 +4,7 @@
 **🏫 Education**</br></br>
 ***Univeristy of South Carolina Class of 2024***
 - Major in Computer Information Systems | Minor in Business Information Management
-- GPA: 3.15
+- GPA: 3.5
 ---
 
 **📝 Resume**
